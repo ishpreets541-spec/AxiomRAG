@@ -1,0 +1,17 @@
+version: '3'
+
+tasks:
+  install:
+    desc: Install Python dependencies
+    cmds:
+      - pip install -r requirements.txt
+
+  ingest:
+    desc: Run ingestion pipeline script
+    cmds:
+      - bash scripts/run_ingestion.sh
+
+  api:
+    desc: Start Streamlit app
+    cmds:
+      - streamlit run streamlit_app.py --server.address 0.0.0.0 --server.port 8501
