@@ -486,3 +486,14 @@ Improve:
 # License
 
 This project is intended for research, experimentation, benchmarking, and evaluation of Retrieval-Augmented Generation (RAG) systems with a focus on hallucination detection, reliability analysis, and evidence-grounded answer generation.
+
+# 👩‍💻 Author
+
+**Ishpreet Singh**
+
+M.Tech
+Indian Institute of Technology Bombay
+Mail ID:
+25m0326@iitb.ac.in
+
+
