@@ -1,4 +1,4 @@
-# RAG Reliability & Hallucination Auditor
+#AXIOM RAG: RAG Reliability & Hallucination Auditor
 
 Production-grade Retrieval-Augmented Generation (RAG) evaluation system designed to measure answer reliability, detect hallucinations, validate evidence grounding, and benchmark retrieval performance across enterprise documents such as privacy policies, SOPs, legal contracts, compliance manuals, and HR documents.
 
